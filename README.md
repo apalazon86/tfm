@@ -1,6 +1,6 @@
 # TFM - Estudio de la respuesta génica regulada por estrés replicativo del DNA en Cáncer de Mama: Procesos que regulan la expresión génica de RNAasa H
 
-Este repositorio contiene diferentes anexos del trabajo fin de máster "Estudio de la respuesta génica regulada por estrés replicativo del DNA en Cáncer de Mama: Procesos que regulan la expresión génica de RNAasa H".
+Anexos del trabajo fin de máster "Estudio de la respuesta génica regulada por estrés replicativo del DNA en Cáncer de Mama: Procesos que regulan la expresión génica de RNAasa H".
 
 ## Selección de atributos de un dataset de expresión génica mediante random forest.
 
